@@ -1,4 +1,4 @@
-# InfiniteCards
+# InfiniteCards 探探 式卡片切换
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![](https://jitpack.io/v/BakerJQ/Android-InfiniteCards.svg)](https://jitpack.io/#BakerJQ/Android-InfiniteCards)
 
